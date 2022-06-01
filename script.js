@@ -27,7 +27,7 @@ searchBtn.setAttribute('onclick', 'search()')
 
 let resetBtn = document.createElement('button')
 resetBtn.className = 'btn2'
-resetBtn.innerHTML = '<i class="fa-solid fa-arrows-rotate"></i>'
+resetBtn.innerHTML = '<i class="fa-solid fa-arrow-rotate-right"></i>'
 resetBtn.setAttribute('type', 'button')
 resetBtn.setAttribute('onclick', 'reset()')
 
